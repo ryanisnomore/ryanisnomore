@@ -33,19 +33,11 @@ ARINO is your all-in-one Discord music bot, built for high-quality audio and sea
 
 [![Discord Server](https://img.shields.io/discord/1111111111111111111?label=ARINO%20HQ&logo=discord&style=for-the-badge)](https://discord.gg/W2GheK3F9m)
 
-> **Server Stats**  
-> **Total Members:** `dynamic`  
-> **Online:** `dynamic`  
-> **Offline:** `dynamic`  
->
-> _(Live member stats powered by Discord API or bots. Replace with actual numbers or use a stats widget service if possible.)_
-
----
 
 ## 💬 Let’s Connect!
 
 - **Discord:** [ryanisnomore#0001](https://discord.com/users/1085376019445321829)
-- **Instagram:** [@ryanisnomore](https://instagram.com/ryanisnomore)
+- **Instagram:** [RY4N <3](https://instagram.com/ryan.no.nomore)
 - **GitHub:** [ryanisnomore](https://github.com/ryanisnomore)
 - **Discord Server:** [ARINO HQ](https://discord.gg/W2GheK3F9m)
 
@@ -58,8 +50,3 @@ I believe automation shouldn’t just be powerful—it should be fun! Whether I�
 ---
 
 _Thanks for visiting! Feel free to check out my repos, open issues, or just say hi!_
-
-```
-**Note:**  
-- For the Discord server stats (members, online, offline), GitHub markdown doesn't natively support live dynamic values. You can use a bot or a service like [Discord Widget](https://discord.com/widget?id=YOUR_SERVER_ID&theme=dark) or Shields.io with your server ID (replace `1111111111111111111` in the badge URL with your actual server ID) for more accurate stats.  
-- Update the Discord badge with your server's actual ID for real-time member count.
