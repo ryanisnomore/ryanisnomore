@@ -36,9 +36,9 @@ ARINO is your all-in-one Discord music bot, built for high-quality audio and sea
 
 ## 💬 Let’s Connect!
 
-- **Discord:** [ryanisnomore#0001](https://discord.com/users/1085376019445321829)
+- **Discord:** [RY4N](https://discord.com/users/1085376019445321829)
 - **Instagram:** [RY4N <3](https://instagram.com/ryan.no.nomore)
-- **GitHub:** [ryanisnomore](https://github.com/ryanisnomore)
+- **GitHub:** [RY4N](https://github.com/ryanisnomore)
 - **Discord Server:** [ARINO HQ](https://discord.gg/W2GheK3F9m)
 
 ---
