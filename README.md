@@ -7,9 +7,9 @@
 ## 🚀 About Me
 Hi there! I’m a passionate Discord Bot Developer who loves building tools that make servers more fun, functional, and welcoming. JavaScript is my playground, and I’m currently leveling up my HTML skills to bring even more creativity to my projects.
 
-- 🤖 **Discord Bots:** I enjoy automating communities, creating custom commands, and building unique user experiences.
-- 🛠️ **Tech Stack:** JavaScript (main), learning HTML, and always open to new tools and languages!
-- 🌱 **Learning:** Constantly exploring new frameworks and ways to make bots smarter and more helpful.
+- **ARINO** [Invite Now](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
+- **Tech Stack:** JavaScript (main), learning HTML, and always open to new tools and languages!
+- **Learning:** Constantly exploring new frameworks and ways to make bots smarter and more helpful.
 
 ## 🌟 Featured Projects
 <!-- Add your favorite bots/projects here! -->
@@ -17,7 +17,7 @@ Hi there! I’m a passionate Discord Bot Developer who loves building tools that
 
 ## 💬 Let’s Connect!
 <!-- Add your social links here if you want -->
-- [Discord] [RY4N](https://discord.com/users/1085376019445321829)
+- [Discord](https://discord.com/users/1085376019445321829)
 - [GitHub](https://github.com/ryanisnomore)
 
 ## ⚡ Fun Fact
