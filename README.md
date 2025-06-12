@@ -1,52 +1,71 @@
-# 👋 Hey, I’m Ryan! (aka ryanisnomore)
+# 👋 Hello, I'm RY4N
 
-![Discord](https://img.shields.io/badge/Discord%20Bots-Developer-5865F2?style=for-the-badge&logo=discord)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5)
+[![Discord](https://img.shields.io/badge/-Discord_Bot_Developer-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1085376019445321829)
+[![JavaScript](https://img.shields.io/badge/-JavaScript_Developer-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ryanisnomore?tab=repositories&q=&type=&language=javascript)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![HTML5](https://img.shields.io/badge/-Learning_HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ---
 
 ## 🚀 About Me
-Hi there! I’m a passionate Discord Bot Developer who loves building tools that make servers more fun, functional, and welcoming. JavaScript is my playground, and I’m currently leveling up my HTML skills. Always curious, always shipping new features!
 
-- **Tech Stack:** JavaScript (main), learning HTML, and always open to new tools and languages!
-- **Learning:** Constantly exploring new frameworks and ways to make bots smarter and more helpful.
+I'm a passionate Discord bot developer specializing in JavaScript with expertise in creating feature-rich, high-performance bots. Currently expanding my skills in web development (HTML/CSS) while maintaining several popular Discord bots used by thousands of users.
+
+**Tech Stack:**
+- **Languages:** JavaScript (ES6+), TypeScript (Learning)
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, PostgreSQL
+- **APIs:** Discord.js, REST, WebSocket
+- **Tools:** Git, GitHub, VS Code, Docker
+
+**Currently Learning:**
+- Web Development (HTML5, CSS3, React)
+- Advanced Node.js patterns
+- Bot scalability and optimization
 
 ---
 
 ## 🌟 Featured Projects
 
-### ARINO Discord Music Bot
-ARINO is your all-in-one Discord music bot, built for high-quality audio and seamless playback. Whether you want to queue up your favorite songs, enjoy playlists, or just chill with friends, ARINO’s got you covered with a smooth, lag-free experience.
+### 🎵 ARINO - Advanced Discord Music Bot
 
-- **GitHub:** [ghryanx7/ARINO](https://github.com/ghryanx7/ARINO)
-- **Invite:** [ARINO](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
-- **Features:**
-  - High-quality audio streaming
-  - Supports  Spotify, Deezer, Soundcloud, AppleMusic, YouTube, Jiosaavn
-  - Playlist management, queue, skip, pause, resume, and volume controls
-  - 24/7 uptime and stability
-  - Easy-to-use commands and interactive help
-  - Regular updates and awesome support
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/ghryanx7/ARINO)
+[![Discord](https://img.shields.io/badge/-Invite_Bot-5865F2?style=flat-square&logo=discord)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
+[![Support Server](https://img.shields.io/discord/1092123729401745510?label=Support%20Server&style=flat-square&logo=discord)](https://discord.gg/W2GheK3F9m)
 
-### 🌐 ARINO HQ Discord Server
+A high-performance music bot supporting multiple platforms with premium audio quality and 24/7 reliability.
 
-[![Discord Server](https://img.shields.io/discord/1111111111111111111?label=ARINO%20HQ&logo=discord&style=for-the-badge)](https://discord.gg/W2GheK3F9m)
+**Key Features:**
+- Multi-platform support (Spotify, YouTube, SoundCloud, Apple Music, Deezer, Jiosaavn, ect.)
+- Advanced queue system with playlist management
+- Crystal-clear audio with adjustable bitrate
+- Interactive player controls
+- Robust error handling and auto-reconnect
 
-
-## 💬 Let’s Connect!
-
-- **Discord:** [RY4N](https://discord.com/users/1085376019445321829)
-- **Instagram:** [RY4N <3](https://instagram.com/ryan.no.nomore)
-- **GitHub:** [RY4N](https://github.com/ryanisnomore)
-- **Discord Server:** [ARINO HQ](https://discord.gg/W2GheK3F9m)
+**Tech Stack:** Node.js, Discord.js, Lavalink, MongoDB
 
 ---
 
-## ⚡ Fun Fact
+## 📊 GitHub Stats
 
-I believe automation shouldn’t just be powerful—it should be fun! Whether I’m coding a clever moderation tool or a new music feature, I love making tech that brings people together.
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanisnomore&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanisnomore&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-_Thanks for visiting! Feel free to check out my repos, open issues, or just say hi!_
+## 🌐 Connect With Me
+
+[![Discord](https://img.shields.io/badge/-RY4N%231234-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1085376019445321829)
+[![GitHub](https://img.shields.io/badge/-@ryanisnomore-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ryanisnomore)
+[![Instagram](https://img.shields.io/badge/-@ryan.no.nomore-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ryan.no.nomore)
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 💡 Fun Fact
+
+When I'm not coding, you can find me experimenting with new bot features or helping other developers in Discord communities. I believe the best bots combine utility with personality!
+
+---
+
+⭐️ From [Ryan](https://github.com/ryanisnomore)
