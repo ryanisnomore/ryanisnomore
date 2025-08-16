@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a passionate Discord bot developer from India. My focus lies in creating high-performance, feature-rich Discord bots that serve thousands of users daily. I take great care in the architecture, user experience, and code quality of the applications I build.
+I'm a passionate Discord bot developer from Bangladesh. My focus lies in creating high-performance, feature-rich Discord bots that serve thousands of users daily. I take great care in the architecture, user experience, and code quality of the applications I build.
 
 - Currently working on advanced Discord bot projects
 - Learning HTML, CSS, and modern frontend development
