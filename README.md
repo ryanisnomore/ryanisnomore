@@ -1,38 +1,40 @@
-# Hello, I'm RY4N
+# RY4N
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;JavaScript+%26+TypeScript+Expert;Learning+Frontend+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Discord+Bot+Specialist;Backend+Architecture+Expert;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
-I'm a passionate Discord bot developer from Bangladesh. My focus lies in creating high-performance, feature-rich Discord bots that serve thousands of users daily. I take great care in the architecture, user experience, and code quality of the applications I build.
+<div align="center">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
 
-- Currently working on advanced Discord bot projects
-- Learning HTML, CSS, and modern frontend development
-- Looking to collaborate on open source Discord bot projects
-- Ask me about Discord.js, Node.js, or bot development
-- How to reach me: [Discord](https://discord.com/users/1085376019445321829)
-- Pronouns: He/Him
+</div>
 
-## Languages and Tools
+## Tech Arsenal
 
 <div align="center">
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
-</p>
+**Core Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,rust,html,css&theme=dark" alt="Languages" />
 
-**Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
-</p>
+**Backend & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,bun&theme=dark" alt="Backend" />
 
-**Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
-</p>
+**Database & Storage**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" alt="Database" />
+
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" alt="Tools" />
 
 </div>
 
@@ -40,65 +42,73 @@ I'm a passionate Discord bot developer from Bangladesh. My focus lies in creatin
 
 <div align="center">
 
-[![ARINO](https://github-readme-stats.vercel.app/api/pin/?username=ghryanx7&repo=ARINO&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ghryanx7/ARINO)
+<a href="https://github.com/ghryanx7/ARINO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghryanx7&repo=ARINO&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&card_width=500" alt="ARINO"/>
+</a>
 
 </div>
 
+<div align="center">
+  
 **ARINO - Advanced Discord Music Bot**
 
-A high-performance Discord music bot supporting multiple platforms with premium audio quality and 24/7 reliability. Built with Node.js, Discord.js, and Lavalink for optimal performance.
+Multi-platform music streaming with premium audio quality and 24/7 reliability
 
-- Multi-platform support (Spotify, YouTube, SoundCloud, Apple Music, Deezer, JioSaavn)
-- Advanced queue management system with playlist support
-- Crystal-clear audio with adjustable bitrate settings
-- Interactive controls with button-based interface
-- 24/7 hosting with robust error handling and auto-reconnect
-
-**Tech Stack:** Node.js, TypeScript, Discord.js v14, Lavalink, MongoDB
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white&border_radius=10)](https://github.com/ghryanx7/ARINO)
-[![Invite Bot](https://img.shields.io/badge/Invite_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
-[![Support](https://img.shields.io/badge/Support_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2GheK3F9m)
+[![Repository](https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&border_radius=15)](https://github.com/ghryanx7/ARINO)
+[![Invite Bot](https://img.shields.io/badge/Add_to_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
+[![Support](https://img.shields.io/badge/Get_Support-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2GheK3F9m)
 
 </div>
 
-## GitHub Statistics
+## Performance Metrics
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ryanisnomore&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ryanisnomore&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=00D9FF&fire_color=FF6B6B" alt="GitHub Stats" height="200"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanisnomore&layout=compact&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanisnomore&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&card_width=320" alt="Top Languages" height="200"/>
 
 </div>
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=ryanisnomore&theme=github-dark-blue&hide_border=true&border_radius=15&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ryanisnomore&theme=tokyonight_duo&hide_border=true&border_radius=20&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanisnomore&theme=github-compact&hide_border=true&border_radius=15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanisnomore&theme=tokyo-night&hide_border=true&border_radius=20&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FF6B6B&area=true&area_color=1A1B27&custom_title=Contribution%20Timeline" alt="Activity Graph" />
 
 </div>
 
-## Connect With Me
+## 3D Contribution Snake
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/ryanisnomore/ryanisnomore/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+## Connect & Collaborate
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1085376019445321829)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanisnomore)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryan.no.nomore)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.is.nomore7@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&border_radius=15)](https://discord.com/users/1085376019445321829)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/ryanisnomore)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ryan.no.nomore)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ryan.is.nomore7@gmail.com)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryanisnomore&color=58a6ff&style=for-the-badge)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ryanisnomore&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 </div>
