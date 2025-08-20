@@ -6,11 +6,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
-
-**Passionate Full Stack Developer from Bangladesh** specializing in high-performance Discord bots and modern web applications. Building scalable solutions that serve thousands of users with exceptional architecture and code quality.
-
-Currently expanding expertise in advanced frontend frameworks while maintaining focus on backend excellence. Open to collaborating on innovative Discord bot projects and contributing to open source initiatives.
+Full Stack Developer from Bangladesh specializing in high-performance Discord bots and scalable web applications.
 
 <div align="center">
 
@@ -22,7 +18,7 @@ Currently expanding expertise in advanced frontend frameworks while maintaining 
 
 **Languages & Core Technologies**
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,rust,html,css,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,rust,html,css&theme=dark" />
 </p>
 
 </td>
@@ -83,18 +79,11 @@ Currently expanding expertise in advanced frontend frameworks while maintaining 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghryanx7&repo=ARINO&theme=react&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&show_icons=true"/>
 </a>
 
-**ARINO - Next-Gen Discord Music Bot**
+**ARINO - Advanced Discord Music Bot**
 
-Enterprise-grade Discord music bot delivering premium audio experiences with multi-platform integration and intelligent queue management.
+Multi-platform music bot with enterprise-grade performance and 24/7 reliability.
 
-**Key Features:**
-- Multi-platform streaming (Spotify, YouTube, Apple Music, Deezer, JioSaavn)
-- Advanced audio processing with dynamic bitrate optimization  
-- Intelligent playlist management and queue algorithms
-- Interactive UI with responsive button controls
-- 24/7 uptime with auto-healing architecture
-
-**Architecture:** Node.js, TypeScript, Discord.js v14, Lavalink, MongoDB Atlas, Redis Cache
+**Tech Stack:** Node.js, TypeScript, Discord.js v14, Lavalink, MongoDB, Redis
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
 
