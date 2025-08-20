@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Discord+Bot+Specialist;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Discord+Bot+Expert;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -147,6 +147,6 @@ Multi-platform music bot with enterprise-grade performance and 24/7 reliability.
 
 <img src="https://komarev.com/ghpvc/?username=ryanisnomore&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=RY4N&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
+</div>
