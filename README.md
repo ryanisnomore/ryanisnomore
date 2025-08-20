@@ -2,115 +2,162 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;Discord+Bot+Specialist;System+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Discord+Bot+Specialist;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+
+**Passionate Full Stack Developer from Bangladesh** specializing in high-performance Discord bots and modern web applications. Building scalable solutions that serve thousands of users with exceptional architecture and code quality.
+
+Currently expanding expertise in advanced frontend frameworks while maintaining focus on backend excellence. Open to collaborating on innovative Discord bot projects and contributing to open source initiatives.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=80&animation=twinkling" />
-</div>
 
 ## Tech Arsenal
 
-<div align="center">
-
-### Core Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,html,css&theme=dark" alt="Core Languages" />
-</p>
-
-### Backend & Runtime
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Backend" />
-</p>
-
-### Frontend & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
-</p>
-
-### Databases & Cache
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" alt="Databases" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" alt="Tools" />
-</p>
-
-</div>
-
-## Featured Project
-
-<div align="center">
-  <a href="https://github.com/ghryanx7/ARINO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghryanx7&repo=ARINO&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="ARINO Project" />
-  </a>
-</div>
-
-**ARINO - Advanced Discord Music Bot**
-
-High-performance Discord music bot with multi-platform support and premium audio quality. Engineered for scalability and 24/7 reliability.
-
-**Architecture:** Node.js • TypeScript • Discord.js v14 • Lavalink • MongoDB • Redis
-
-**Features:** Multi-platform streaming • Advanced queue management • Interactive controls • Auto-reconnect system
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/ghryanx7/ARINO)
-[![Invite Bot](https://img.shields.io/badge/Invite_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
-[![Support](https://img.shields.io/badge/Support_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2GheK3F9m)
-
-</div>
-
-## Performance Metrics
-
-<div align="center">
-
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ryanisnomore&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanisnomore&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+**Languages & Core Technologies**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,rust,html,css,python&theme=dark" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+**Backend & Runtime**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,deno&theme=dark" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Frontend Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" />
+</p>
+
+</td>
+<td align="center">
+
+**Databases & Storage**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**DevOps & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel&theme=dark" />
+</p>
+
+</td>
+<td align="center">
+
+**Development Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+</td>
+</tr>
 </table>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ryanisnomore&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF073A&currStreakLabel=00D4FF" alt="GitHub Streak" />
+
+## Featured Project
+
+<a href="https://github.com/ghryanx7/ARINO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghryanx7&repo=ARINO&theme=react&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&show_icons=true"/>
+</a>
+
+**ARINO - Next-Gen Discord Music Bot**
+
+Enterprise-grade Discord music bot delivering premium audio experiences with multi-platform integration and intelligent queue management.
+
+**Key Features:**
+- Multi-platform streaming (Spotify, YouTube, Apple Music, Deezer, JioSaavn)
+- Advanced audio processing with dynamic bitrate optimization  
+- Intelligent playlist management and queue algorithms
+- Interactive UI with responsive button controls
+- 24/7 uptime with auto-healing architecture
+
+**Architecture:** Node.js, TypeScript, Discord.js v14, Lavalink, MongoDB Atlas, Redis Cache
+
+<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
+
+[![Repository](https://img.shields.io/badge/🔗_Repository-1a1a1a?style=for-the-badge&logoColor=white)](https://github.com/ghryanx7/ARINO)
+[![Invite Bot](https://img.shields.io/badge/🤖_Invite_Bot-5865F2?style=for-the-badge&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
+[![Support Server](https://img.shields.io/badge/💬_Support-7289DA?style=for-the-badge&logoColor=white)](https://discord.gg/W2GheK3F9m)
+
+</div>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanisnomore&theme=tokyo-night&hide_border=true&border_radius=20&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF073A&area=true&area_color=00D4FF" alt="Contribution Graph" />
-</div>
 
-## 3D Contribution Graph
+## Analytics Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanisnomore&show_icons=true&theme=radical&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FF073A&custom_title=System+Performance" alt="3D Stats" />
-</div>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ryanisnomore&show_icons=true&theme=react&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&ring_color=00D9FF&fire=FF6B6B&include_all_commits=true&count_private=true" alt="GitHub Analytics"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanisnomore&layout=donut&theme=react&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Language Distribution"/>
+</td>
+</tr>
+</table>
 
-## Connection Matrix
+<img src="https://streak-stats.demolab.com?user=ryanisnomore&theme=react&hide_border=true&border_radius=20&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="Contribution Streak"/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanisnomore&theme=github_dark&hide_border=true" alt="Contribution Graph"/>
 
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00D4FF&border_radius=20)](https://discord.com/users/1085376019445321829)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/ryanisnomore)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00D4FF)](https://instagram.com/ryan.no.nomore)
-[![Email](https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:ryan.is.nomore7@gmail.com)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryanisnomore&color=00D4FF&style=for-the-badge&label=Profile+Access" alt="Profile Views" />
+
+## Connect & Collaborate
+
+<table>
+<tr>
+<td align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a)](https://discord.com/users/1085376019445321829)
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ryanisnomore)
+
+</td>
+<td align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/ryan.no.nomore)
+
+</td>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:ryan.is.nomore7@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=ryanisnomore&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
