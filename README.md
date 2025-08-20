@@ -1,6 +1,6 @@
-I'M RY4N
-
 <div align="center">
+
+# I'M RY4N
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 20px 0;">
   <div style="background: #0d1117; padding: 20px; border-radius: 13px;">
@@ -12,7 +12,7 @@ I'M RY4N
   <strong>Full Stack Developer from Bangladesh</strong> specializing in high-performance Discord bots, scalable web applications, and system architecture.
 </div>
 
-Tech Arsenal
+## Tech Arsenal
 
 <div style="display: grid; gap: 20px; margin: 30px 0;">
 
@@ -20,8 +20,7 @@ Tech Arsenal
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,217,255,0.3); box-shadow: 0 8px 16px rgba(0,217,255,0.1);">
 
-Programming Languages
-
+**Programming Languages**
 <div style="margin: 15px 0;">
 <img src="https://skillicons.dev/icons?i=js,ts,rust,go,python,java,c,cpp&theme=dark" />
 </div>
@@ -29,8 +28,7 @@ Programming Languages
 </td>
 <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,217,255,0.3); box-shadow: 0 8px 16px rgba(0,217,255,0.1);">
 
-Backend & Runtime
-
+**Backend & Runtime**
 <div style="margin: 15px 0;">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,bun,deno&theme=dark" />
 </div>
@@ -40,8 +38,7 @@ Backend & Runtime
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,217,255,0.3); box-shadow: 0 8px 16px rgba(0,217,255,0.1);">
 
-Frontend & UI
-
+**Frontend & UI**
 <div style="margin: 15px 0;">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,html,css,sass&theme=dark" />
 </div>
@@ -49,8 +46,7 @@ Frontend & UI
 </td>
 <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,217,255,0.3); box-shadow: 0 8px 16px rgba(0,217,255,0.1);">
 
-Databases & Storage
-
+**Databases & Storage**
 <div style="margin: 15px 0;">
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase&theme=dark" />
 </div>
@@ -60,8 +56,7 @@ Databases & Storage
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,217,255,0.3); box-shadow: 0 8px 16px rgba(0,217,255,0.1);">
 
-DevOps & Cloud
-
+**DevOps & Cloud**
 <div style="margin: 15px 0;">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,nginx&theme=dark" />
 </div>
@@ -69,8 +64,7 @@ DevOps & Cloud
 </td>
 <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,217,255,0.3); box-shadow: 0 8px 16px rgba(0,217,255,0.1);">
 
-Development Tools
-
+**Development Tools**
 <div style="margin: 15px 0;">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,bash&theme=dark" />
 </div>
@@ -81,7 +75,7 @@ Development Tools
 
 </div>
 
-Featured Project
+## Featured Project
 
 <div style="background: linear-gradient(135deg, rgba(0,217,255,0.05) 0%, rgba(102,126,234,0.02) 100%); padding: 25px; border-radius: 20px; border: 1px solid rgba(0,217,255,0.2); margin: 25px 0;">
 
@@ -97,13 +91,15 @@ Featured Project
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
-https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logoColor=white&labelColor=1a1a1a https://img.shields.io/badge/Invite_Bot-5865F2?style=for-the-badge&logoColor=white&labelColor=1a1a1a https://img.shields.io/badge/Support-7289DA?style=for-the-badge&logoColor=white&labelColor=1a1a1a
+[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://github.com/ryanisnomore/ARINO)
+[![Invite Bot](https://img.shields.io/badge/Invite_Bot-5865F2?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
+[![Support](https://img.shields.io/badge/Support-7289DA?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://discord.gg/W2GheK3F9m)
 
 </div>
 
 </div>
 
-Analytics Dashboard
+## Analytics Dashboard
 
 <div style="margin: 30px 0;">
 
@@ -128,26 +124,7 @@ Analytics Dashboard
 
 </div>
 
-Dev Card & Stats
-
-<div style="margin: 30px 0;">
-
-<a href="https://app.daily.dev/ryanisnomore"><img src="https://api.daily.dev/devcards/v2/ryanisnomore.png?type=wide&r=0sq" width="652" alt="RY4N's Dev Card"/></a>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ryanisnomore&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ryanisnomore)
-</div>
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
-![GitHub followers](https://img.shields.io/github/followers/ryanisnomore?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/ryanisnomore?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ryanisnomore.repoName) 
-<img src="https://komarev.com/ghpvc/?username=ryanisnomore" alt="ryanisnomore" />
-</div>
-
-</div>
-
-Connect & Collaborate
+## Connect & Collaborate
 
 <div style="margin: 30px 0;">
 
@@ -155,22 +132,22 @@ Connect & Collaborate
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #5865F2 0%, #4752C4 100%); padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(88,101,242,0.3); transform: perspective(1000px) rotateX(5deg);">
 
-https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2
+[![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1085376019445321829)
 
 </td>
 <td align="center" style="background: linear-gradient(135deg, #24292e 0%, #1a1e22 100%); padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(36,41,46,0.3); transform: perspective(1000px) rotateX(5deg);">
 
-https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=24292e
+[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=24292e)](https://github.com/ryanisnomore)
 
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E4405F 0%, #C13584 100%); padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(228,64,95,0.3); transform: perspective(1000px) rotateX(5deg);">
 
-https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ryan.no.nomore)
 
 </td>
 <td align="center" style="background: linear-gradient(135deg, #EA4335 0%, #D33B2C 100%); padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(234,67,53,0.3); transform: perspective(1000px) rotateX(5deg);">
 
-https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ryan.is.nomore7@gmail.com)
 
 </td>
 </tr>
@@ -178,8 +155,6 @@ https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoCol
 
 <div style="margin: 25px 0; padding: 15px; background: linear-gradient(135deg, rgba(0,217,255,0.1) 0%, rgba(102,126,234,0.05) 100%); border-radius: 15px; border: 1px solid rgba(0,217,255,0.2);">
 <img src="https://komarev.com/ghpvc/?username=ryanisnomore&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
-</div>
-
 </div>
 
 </div>
