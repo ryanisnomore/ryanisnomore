@@ -158,7 +158,3 @@
 </div>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=RY4N&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
-
-</div>
