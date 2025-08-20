@@ -158,3 +158,24 @@
 </div>
 
 </div>
+
+## Dev Card & Stats
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, rgba(0,217,255,0.05) 0%, rgba(102,126,234,0.02) 100%); padding: 20px; border-radius: 20px; border: 1px solid rgba(0,217,255,0.2);">
+<a href="https://app.daily.dev/bre4d777"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="100%" alt="Priyanshu Yadav's Dev Card"/></a>
+</div>
+
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, rgba(0,217,255,0.05) 0%, rgba(102,126,234,0.02) 100%); padding: 20px; border-radius: 20px; border: 1px solid rgba(0,217,255,0.2);">
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bre4d777&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/bre4d777)
+</div>
+
+</div>
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+![GitHub followers](https://img.shields.io/github/followers/Bre4d777?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+![GitHub User's stars](https://img.shields.io/github/stars/Bre4d777?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bre4d777.repoName&style=for-the-badge&color=00D9FF)
+<img src="https://komarev.com/ghpvc/?username=Bre4d777&style=for-the-badge&color=00D9FF" alt="Bre4d77" />
+</div>
