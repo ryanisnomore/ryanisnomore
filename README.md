@@ -147,6 +147,4 @@ Multi-platform music bot with enterprise-grade performance and 24/7 reliability.
 
 <img src="https://komarev.com/ghpvc/?username=ryanisnomore&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=RY4N&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
-
 </div>
