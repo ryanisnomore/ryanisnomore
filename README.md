@@ -22,7 +22,7 @@
 
 **Programming Languages**
 <div style="margin: 15px 0;">
-<img src="https://skillicons.dev/icons?i=js,ts,rust,go,python,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,rust,go,java,c,cpp&theme=dark" />
 </div>
 
 </td>
