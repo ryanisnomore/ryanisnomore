@@ -87,9 +87,9 @@ Multi-platform music bot with enterprise-grade performance and 24/7 reliability.
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
 
-[![Repository](https://img.shields.io/badge/🔗_Repository-1a1a1a?style=for-the-badge&logoColor=white)](https://github.com/ghryanx7/ARINO)
-[![Invite Bot](https://img.shields.io/badge/🤖_Invite_Bot-5865F2?style=for-the-badge&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
-[![Support Server](https://img.shields.io/badge/💬_Support-7289DA?style=for-the-badge&logoColor=white)](https://discord.gg/W2GheK3F9m)
+[![Repository](https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logoColor=white)](https://github.com/ghryanx7/ARINO)
+[![Invite Bot](https://img.shields.io/badge/Invite_Bot-5865F2?style=for-the-badge&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
+[![Support Server](https://img.shields.io/badge/Support-7289DA?style=for-the-badge&logoColor=white)](https://discord.gg/W2GheK3F9m)
 
 </div>
 
