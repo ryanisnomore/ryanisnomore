@@ -91,7 +91,7 @@
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
-[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://github.com/ghryanx7/ARINO)
+[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://github.com/ryanisnomore/ARINO)
 [![Invite Bot](https://img.shields.io/badge/Invite_Bot-5865F2?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands)
 [![Support](https://img.shields.io/badge/Support-7289DA?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://discord.gg/W2GheK3F9m)
 
